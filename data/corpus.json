@@ -1,0 +1,15 @@
+[
+  {"id":"auth","text":"Authentication verifies a user identity. Multi factor authentication combines a password with a second factor such as a security key."},
+  {"id":"authorization","text":"Authorization determines which resources an authenticated user can access. Role based access control grants permissions through roles."},
+  {"id":"caching","text":"A cache stores frequently requested results for faster access. Time to live controls when cached entries expire."},
+  {"id":"queues","text":"A message queue buffers work between producers and consumers. Workers process queued jobs asynchronously and may retry failures."},
+  {"id":"backups","text":"Database backups preserve recoverable copies of data. Test restoration regularly to confirm the backup can be used."},
+  {"id":"indexes","text":"Database indexes speed up lookups at the cost of extra storage and slower writes. Query plans show whether an index is used."},
+  {"id":"rate_limits","text":"Rate limiting caps the number of requests a client can send in a time window. It protects an API from overload."},
+  {"id":"observability","text":"Observability uses logs metrics and traces to explain system behavior. Distributed traces follow a request across services."},
+  {"id":"deployments","text":"A canary deployment sends a small share of traffic to a new release before wider rollout. Rollback restores the previous version."},
+  {"id":"encryption","text":"Encryption protects data in transit with TLS and data at rest with encrypted storage. Key rotation limits exposure from compromised keys."},
+  {"id":"retrieval","text":"Retrieval augmented generation finds relevant documents before producing an answer. Citations connect an answer to source passages."},
+  {"id":"evaluation","text":"Retrieval evaluation measures recall at k and mean reciprocal rank against labelled source documents. Separate held out questions reduce tuning bias."}
+]
+

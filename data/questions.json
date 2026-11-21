@@ -1,0 +1,18 @@
+[
+  {"id":"q01","question":"How is a user identity verified with a second factor?","source_id":"auth"},
+  {"id":"q02","question":"How do roles determine resource permissions?","source_id":"authorization"},
+  {"id":"q03","question":"What makes stored results expire?","source_id":"caching"},
+  {"id":"q04","question":"How can background jobs be buffered and retried?","source_id":"queues"},
+  {"id":"q05","question":"Why should recovery copies be restored during testing?","source_id":"backups"},
+  {"id":"q06","question":"What speeds up database lookups but slows writes?","source_id":"indexes"},
+  {"id":"q07","question":"How can an API cap requests per client?","source_id":"rate_limits"},
+  {"id":"q08","question":"How can a request be followed across services?","source_id":"observability"},
+  {"id":"q09","question":"What rollout sends limited traffic to a new release?","source_id":"deployments"},
+  {"id":"q10","question":"Why rotate keys protecting stored data?","source_id":"encryption"},
+  {"id":"q11","question":"How do citations support generated answers?","source_id":"retrieval"},
+  {"id":"q12","question":"Which metrics assess retrieval against labelled sources?","source_id":"evaluation"},
+  {"id":"q13","question":"What is the office lunch menu?","source_id":null},
+  {"id":"q14","question":"When does the company shuttle arrive?","source_id":null},
+  {"id":"q15","question":"Who won the annual chess tournament?","source_id":null}
+]
+
